@@ -1,0 +1,22 @@
+{
+  "C:\\Users\\WilliamLeara\\src\\utexas\\mr\\sdl\\src": {
+    "location": "C:\\Users\\WilliamLeara\\src\\utexas\\mr\\sdl\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\WilliamLeara\\src\\utexas\\mr\\sdl\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\WilliamLeara\\Documents\\home\\education\\MS\\master\u0027s report\\src\\antlr-4.2-complete.jar": {
+    "location": "C:\\Users\\WilliamLeara\\Documents\\home\\education\\MS\\master\u0027s report\\src\\antlr-4.2-complete.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\WilliamLeara\\Documents\\home\\education\\MS\\master\u0027s report\\src\\antlr-4.2-complete.jar\u0027. Neither fingerprint \u00272ca46f6c3fee3cde543ec21a800805e9432acab7\u0027 nor symbolic name \u0027org.antlr.stringtemplate\u0027 are known."
+  },
+  "C:\\Users\\WilliamLeara\\src\\utexas\\mr\\vfr\\src": {
+    "location": "C:\\Users\\WilliamLeara\\src\\utexas\\mr\\vfr\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\WilliamLeara\\src\\utexas\\mr\\vfr\\src\u0027. Skipped."
+  }
+}

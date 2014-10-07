@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;fileName&apos; in &apos;com.williamleara.utexas.mastersreport.Vfr.VfrToHTML&apos; to &apos;fileNameMain&apos;&#x0D;&#x0A;- Original project: &apos;vfr&apos;&#x0D;&#x0A;- Original element: &apos;com.williamleara.utexas.mastersreport.Vfr.VfrToHTML.fileName&apos;&#x0D;&#x0A;- Renamed element: &apos;com.williamleara.utexas.mastersreport.Vfr.VfrToHTML.fileNameMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;fileName&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;com.williamleara.utexas.mastersreport{Vfr.java[Vfr[VfrToHTML^fileName" name="fileNameMain" references="true" setter="false" stamp="1397940988784" textual="false" version="1.0"/>
+</session>

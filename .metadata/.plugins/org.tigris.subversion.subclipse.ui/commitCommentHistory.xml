@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommitComments>	<CommitComment>now print the value in the outpu</CommitComment>
+	<CommitComment>better representations of the class</CommitComment>
+	<CommitComment>images aren&apos;t working out as well as screenshots; remove</CommitComment>
+	<CommitComment>add class diagrams for VFR</CommitComment>
+	<CommitComment>add class diagrams for SDL</CommitComment>
+	<CommitComment>add class diagrams for complexity</CommitComment>
+	<CommitComment>avoid stack underflow</CommitComment>
+	<CommitComment>now write body-bgcolor
+
+now write title (!!!)</CommitComment>
+	<CommitComment>better HTML to use &lt;p&gt;</CommitComment>
+	<CommitComment>wow, done.</CommitComment>
+</CommitComments>

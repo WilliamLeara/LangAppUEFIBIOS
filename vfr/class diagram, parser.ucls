@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.5" icons="true" always-add-relationships="false" generalizations="false" 
+  realizations="false" associations="false" dependencies="false" nesting-relationships="false">  
+  <class id="1" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementNoSubmitIfContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="206" x="195" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrNumericFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="441" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.GetExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="861" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrActionFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="651" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.FindFormatContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="1281" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.RulerefExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="1071" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.TolwerExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="1491" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementQuestionTagContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="215" x="1701" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.MinMaxTimeStepDefaultContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="206" x="1956" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.SpanFlagsContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="2202" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.ConditionalExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="2412" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionParenContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="183" x="2622" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStatListContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="188" x="2845" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionTernaryOpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="208" x="3073" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.PushthisExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="3321" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementSuppressIfStatContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="229" x="3531" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementExpressionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="208" x="3800" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.BitwisenotExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="4048" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.IdeqvallistExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="4258" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStatTagContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="187" x="4468" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementSubTitleContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="190" x="4695" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.StaticTextFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="181" x="4925" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementRefreshEventContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="220" x="5146" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementNumericTypeContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="218" x="5647" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStaticTextContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="201" x="5406" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementDisableIfQuestContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="227" x="5905" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.EqualTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="6172" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionUnaryOpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="198" x="6382" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.GotoFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="6620" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStringContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="178" x="6830" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementOptionsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="188" x="7048" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrOrderedListFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="183" x="7496" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementActionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="7276" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExtensionDataContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="7719" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.SecurityExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="7929" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementSuppressIfQuestContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="240" x="8139" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementLockedContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="186" x="8419" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.UnintExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="8892" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementConditionalContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="207" x="8645" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.LengthExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="9522" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.Questionref1ExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="9312" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.SubtitleFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="9102" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.ShiftTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="9732" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrSetMinMaxStepContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="174" x="9942" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.AtomTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="10156" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementCrossReferenceContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="237" x="10366" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrPasswordFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="199" x="10643" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionConstantContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="200" x="10882" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.NumericFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="172" x="11122" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementQuestionsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="202" x="11334" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.MultdivmodTermContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="11576" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementOrderedListContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="212" x="11786" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrTimeFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="12038" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrImageTagContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="12248" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrSubtitleFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="12458" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementModalContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="178" x="12668" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementInconsistentIfContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="221" x="12886" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementDisableIfStatContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="216" x="13147" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrOneOfOptionFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="188" x="13403" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementCheckBoxContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="202" x="13631" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementExtensionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="200" x="13873" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.GetStringIdContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="14113" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionMapContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="173" x="14323" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.CheckboxFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="181" x="14536" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.OrderedlistFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="188" x="14757" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementHeaderContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="185" x="14985" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementWriteContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="175" x="15210" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.IdeqidExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="15425" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.Stringref2ExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="15635" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.IdeqvalExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="15845" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.DateFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="16055" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementPasswordContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="202" x="16265" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.CastTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="16507" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrQuestionHeaderContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="177" x="16717" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionCatenateContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="200" x="16934" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.MidExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="17174" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionBuildInFunctionContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="235" x="17384" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.Question23refExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="17659" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrOneofFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="175" x="17869" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementDefaultContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="184" x="18084" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.GuidSubDefinitionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="18308" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.OneofoptionFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="193" x="18518" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementOneOfOptionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="217" x="18751" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.AndTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="19008" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.GuidDefinitionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="19218" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.PasswordFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="182" x="19428" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementImageContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="179" x="19650" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.SpanExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="19869" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.DupExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="20079" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrLockedTagContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="20289" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.SetExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="20499" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementNumericContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="192" x="20709" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementGrayOutIfStatContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="220" x="20941" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStatContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="21201" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementVarstoreDeviceContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="231" x="21411" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementReadContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="173" x="21682" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrCheckBoxFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="173" x="21895" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.CompareTermContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="22108" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrDateFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="22318" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementGotoContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="22738" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.ActionFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="22528" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.BitwiseandTermContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="22948" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementLabelContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="175" x="23158" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.StringFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="23583" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrGotoFlagsContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="23373" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrFormDefinitionContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="23793" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="107" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.TokenExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="24003" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="108" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.ToboolExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="24213" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="109" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.TostringExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="24423" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="110" language="java" name="com.williamleara.utexas.mastersreport.vfrParser" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="24720" y="309"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="111" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementOneOfContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="25068" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="112" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementBannerContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="185" x="24843" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="113" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.FindExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="25288" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="114" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStringFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="175" x="25498" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="115" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.ToupperExpContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="26184" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="116" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrQuestionDataFieldNameContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="221" x="25923" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="117" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.TimeFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="25713" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="118" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementBooleanTypeContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="216" x="26394" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="119" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStringTypeContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="204" x="26650" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="120" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementDateContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="27138" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="121" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.MinMaxDateStepDefaultContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="204" x="26894" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="122" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrConstantValueFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="193" x="27348" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="123" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrExpressionMatchContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="184" x="27581" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="124" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementRefreshContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="189" x="27805" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="125" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.Stringref1ExpContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="28246" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="126" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementTimeContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="172" x="28034" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="127" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementQuestionTagListContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="236" x="28456" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="128" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.AddMinusTermContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="28732" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="129" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementQuestionOptionTagContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="252" x="28942" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="130" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.QuestionheaderFlagsFieldContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="215" x="29234" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="131" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementRulesContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="176" x="29489" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="132" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.BitwiseorTermContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="29705" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="133" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementStatTagListContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="208" x="29915" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="134" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStorageVarIdContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="170" x="30456" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="135" language="java" 
+    name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementQuestionOptionListContext" project="vfr" 
+    file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="253" x="30163" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="136" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementResetButtonContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="214" x="30666" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="137" language="java" name="com.williamleara.utexas.mastersreport.vfrParser.VfrStatementValueContext" 
+    project="vfr" file="/vfr/src/com/williamleara/utexas/mastersreport/vfrParser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="175" x="30920" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

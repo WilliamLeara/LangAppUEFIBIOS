@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="679" key="RevertDialog.location.x"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="20" key="HistoryTableProvider.SVNHistoryPage.Tags"/>
+	<item value="371" key="ChooseUrlDialog.size.y"/>
+	<item value="311" key="RevertDialog.location.y"/>
+	<item value="249" key="HistoryTableProvider.SVNHistoryPage.Author"/>
+	<item value="mr" key="DirectorySelectionPage.lastParent_file:///C:/users/williamleara/svn/utexas"/>
+	<item value="284" key="CommitDialog.location.y"/>
+	<item value="360" key="CommitDialog.location.x"/>
+	<item value="525" key="RevertDialog.size.x"/>
+	<item value="434" key="RevertDialog.size.y"/>
+	<item value="file:///C:/users/williamleara/svn/utexas" key="RepositorySelectionPage.lastRepository"/>
+	<item value="312" key="HistoryTableProvider.SVNHistoryPage.Date"/>
+	<item value="693" key="ChooseUrlDialog.location.x"/>
+	<item value="622" key="HistoryTableProvider.SVNHistoryPage.Comment"/>
+	<item value="1163" key="CommitDialog.size.x"/>
+	<item value="290" key="ChooseUrlDialog.location.y"/>
+	<item value="642" key="CommitDialog.size.y"/>
+	<item value="125" key="HistoryTableProvider.SVNHistoryPage.Revision"/>
+	<section name="CommitWizard">
+		<item value="true" key="ShowCompare"/>
+		<item value="500" key="VWeight2"/>
+		<item value="765" key="HWeight2"/>
+		<item value="500" key="VWeight1"/>
+		<item value="234" key="HWeight1"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="file:///c:/users/williamleara/svn/utexas"/>
+		</list>
+	</section>
+</section>
